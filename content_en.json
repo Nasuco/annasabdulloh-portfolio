@@ -1,0 +1,290 @@
+{
+    "hero": {
+      "title": "Annas Abdulloh",
+      "typedText": "I'm a Web Development Enthusiast, Full-stack Web Developer, UI/UX Designer, Freelancer, Open-source Contributor, Competitive Programmer"
+    },
+    "clock": {
+      "saveEnergy": "Save Energy. Click on",
+      "darkMode": "<i onclick=\"darkMode()\" class=\"bx bx-sun\"></i>"
+    },
+    "about": {
+      "sectionTitle": "About",
+      "intro": "Hello! 👋 I'm a developer and web designer with a passion for staying at the forefront of information technology. My skill set encompasses web design, development, and user interface creation. I'm enthusiastic about contributing to projects or teams that prioritize innovation.",
+      "webDeveloper": "Web Developer & UI/UX Designer.",
+      "birthday": "Birthday: 28th June, 2001",
+      "city": "City: Sleman, Indonesian",
+      "degree": "Degree: S. Kom (Final Year)",
+      "email": "Email ID: annasabdulloh18@gmail.com",
+      "socialLinks": "Social Links:",
+      "resumeButton": "Download Resume",
+      "certificatesButton": "View My Certificates"
+    },
+    "facts": {
+      "sectionTitle": "Facts",
+      "intro": "These are few of my achievements, in the course of my learning. I wish to learn more and more in the days to come.",
+      "certificates": {
+        "icon": "bi bi-card-text",
+        "count": 4,
+        "text": "Certificates"
+      },
+      "projects": {
+        "icon": "bi bi-journal-richtext",
+        "count": 7,
+        "text": "Projects"
+      },
+      "hoursOfCoding": {
+        "icon": "bi bi-clock",
+        "count": 2880,
+        "text": "Hours Of Coding"
+      },
+      "githubContributions": {
+        "icon": "bi bi-github",
+        "count": 160,
+        "text": "Github Contributions"
+      }
+    },
+    "skills": {
+        "sectionTitle": "Skills",
+        "intro": "These are a list of few of my best skills and their evaluations based on the degree of knowledge, I possess in them. I have evaluated them through a careful analysis of my average performances in these domains over time.",
+        "frontEndTitle": "Front-end Technologies",
+        "frontEndSkills": [
+          { "name": "HTML5", "percentage": 95 },
+          { "name": "CSS3", "percentage": 85 },
+          { "name": "Bootstrap", "percentage": 95 },
+          { "name": "JavaScript Frameworks", "percentage": 85 },
+          { "name": "ReactJS", "percentage": 85 },
+          { "name": "Blade", "percentage": 90 }
+        ],
+        "backEndTitle": "Back-end Technologies",
+        "backEndSkills": [
+          { "name": "PHP", "percentage": 90 },
+          { "name": "Laravel Eloquent (ORM)", "percentage": 85 },
+          { "name": "Artisan CLI", "percentage": 85 },
+          { "name": "Middleware", "percentage": 80 },
+          { "name": "Node.js", "percentage": 85 },
+          { "name": "SQL", "percentage": 95 }
+        ]
+      },
+
+      "resume": {
+        "sectionTitle": "Resume",
+        "sectionIntro": "This is a formal demonstration of my education, skills, participations, and experiences. All the processes are listed chronologically.",
+        "summary": {
+          "title": "Summary",
+          "content": "I'm a developer and web designer with a passion for staying at the forefront of information technology. My skill set encompasses web design, development, and user interface creation. I'm enthusiastic about contributing to projects or teams that prioritize innovation."
+        },
+        "education": {
+          "title": "Education",
+          "entries": [
+            {
+              "degree": "Undergraduate information Technology (S.Kom)",
+              "year": "2020 - Present",
+              "institution": "Faculty of Science and Technology, Aisyiyah University Yogyakarta",
+              "details": [
+                "Networking.",
+                "Software Engineering.",
+                "Artificial Intelligence.",
+                "Data Mining.",
+                "Computer Organization and Architecture.",
+                "IT Management.",
+                "Presently, in the 3rd Year of my course.",
+                "Participated in 2 Hackathons, Multiple coding challenges and 1 Workshop."
+              ]
+            },
+            {
+              "degree": "VOCATIONAL SECONDARY EDUCATION MAJORING IN MULTIMEDIA",
+              "year": "2016 - 2019",
+              "institution": "SMK Negeri 1 Trucuk, Klaten, Jawa Tengah",
+              "details": [
+                "Networking.",
+                "Graphic Design.",
+                "Animation.",
+                "3d Animation Modeling.",
+                "Image and Video Processing.",
+                "Multimedia Projects Management."
+              ]
+            }
+          ]
+        },
+        "experience": {
+          "title": "Experience",
+          "entries": [
+            {
+              "position": "Web Developer Freelancer",
+              "year": "2023 - Present",
+              "organization": "BPTSI - Aisyiyah University Yogyakarta, (Worked hybrid)",
+              "details": [
+                "Develop applications using CodeIgniter Frameworks.",
+                "Collaborate with other developers in the process system development."
+              ]
+            },
+            {
+              "position": "DevOps Engineer",
+              "year": "2023 - 2024",
+              "organization": "ID Camp - Dicoding, (Course)",
+              "details": [
+                "Learn DevOps Basics.",
+                "Learn Computer Networking for Beginners."
+              ]
+            },
+            {
+              "position": "WEB DEVELOPER INTERN",
+              "year": "2023",
+              "organization": "DataIns, (Worked hybrid)",
+              "details": [
+                "Built applications using the Laravel framework.",
+                "Collaborate with other developers in the process system development."
+              ]
+            },
+            {
+              "position": "Speaker Assistant",
+              "year": "2023",
+              "organization": "Workshop EITS, Information Technology Aisyiyah University Yogyakarta",
+              "details": [
+                "Workshop activity \"Let's Guard Our Digital Security\"."
+              ]
+            },
+            {
+              "position": "Fullstack Web Development",
+              "year": "2022 - 2023",
+              "organization": "Certified Independent Study - Binar Academy",
+              "details": [
+                "Built applications using ReactJS and implement Oauth in React and Express.",
+                "Collaborate with other developers in the process system development."
+              ]
+            }
+          ]
+        }
+    },
+    "projects": {
+        "sectionTitle": "Projects",
+        "sectionIntro": "A formal collection of some of my best projects. You may have a look before your go.",
+        "filterOptions": {
+          "all": "All",
+          "laravel": "Laravel",
+          "codeigniter": "CodeIgniter",
+          "reactjs": "ReactJS",
+          "webStatis": "Web Statis"
+        },
+        "projectList": [
+          {
+            "title": "SIRS (Hospital Information System) Nutrition Clinic of PKU Muhammadiyah Gamping",
+            "tech": "Laravel",
+            "image": "assets/img/portfolio/loginsirs.jpg",
+            "description": "SIRS (Hospital Information System) Nutrition Clinic of PKU Muhammadiyah Gamping is a project of an information system aimed at monitoring cases of malnutrition at the Nutrition Clinic of PKU Muhammadiyah Gamping Hospital. This project is created as part of a major assignment in the Hospital Information System course.",
+            "githubLink": "https://github.com/Nasuco/poli-gizi-sirs.git"
+          },
+          {
+            "title": "BackOffice MedUNNES",
+            "tech": "Laravel",
+            "image": "assets/img/portfolio/medunnesbg.jpg",
+            "description": "BackOffice MedUNNES is a web-based telemedicine service administration system used as a platform for the practice of medical students at the Faculty of Medicine, Universitas Negeri Semarang.",
+            "githubLink": "https://github.com/Nasuco/BackOffice-Medunnes.git"
+          },
+          {
+            "title": "Pediatric Nutrition Medical Record Information System (SIPGIZI): Enhancing Nutritional Care for Toddlers",
+            "tech": "CodeIgniter",
+            "image": "assets/img/portfolio/sipgizi.jpg",
+            "description": "SIPGIZI Balita is a Medical Record Information System specifically designed for the Nutrition Clinic in hospitals. This system allows detailed and systematic recording of the nutritional development of toddlers.",
+            "githubLink": "https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya.git"
+          },
+          {
+            "title": "Budget Information System",
+            "tech": "CodeIgniter",
+            "image": "assets/img/portfolio/simaku.jpg",
+            "description": "SIMAKU is a Financial and Accounting Information System, a system used to design the Vision of the University/Unit, Mission of the University/Unit, Goals of the University/Unit, University Strategic Objectives, Key Indicators/Quality Targets of the University/Unit, Program Plans, Budgets, and Expenditures.",
+            "githubLink": "https://simaku.unisayogya.ac.id/"
+          },
+          {
+            "title": "DISSEMINATION CERTIFIED INDEPENDENT STUDY Fullstack Web Developer",
+            "tech": "Web Statis",
+            "image": "assets/img/portfolio/binar.jpg",
+            "description": "My Web-based presentations be created using the Bootstrap framework, which offers a wide range of UI components, responsive CSS styles, and pre-built JavaScript functions.",
+            "githubLink": "https://annasabdulloh.vercel.app/"
+          },
+          {
+            "title": "E-TICKET FLIGHT MYAIRFARE",
+            "tech": "ReactJS",
+            "image": "assets/img/portfolio/MyAirFare.jpg",
+            "description": "This application/platform is designed to facilitate the search for airplane tickets, flight schedules, and booking both one-way and round-trip flights. It can be accessed through both mobile phones and desktop devices.",
+            "githubLink": "https://github.com/Nasuco/BINAR_Studpen_Final_Project_FE_MyAirFare.git"
+          }
+        ],
+        "moreProjectsButton": "For More Projects"
+    },
+    "contact": {
+        "sectionTitle": "Contact",
+        "sectionIntro": "Connecting is always a better way to get the work done. Feel free to connect with me through any of my social media links or drop any remarks in the message box below. I will reply to you as fast as possible.",
+        "address": {
+          "icon": "bx bx-map",
+          "title": "My Address",
+          "content": "Sleman, Special Region of Yogyakarta, 55264"
+        },
+        "email": {
+          "icon": "bx bx-envelope",
+          "title": "Email Me",
+          "content": "annasabdulloh18@gmail.com"
+        },
+        "googleMap": {
+          "src": "https://maps.google.com/maps?q=Sleman&t=&z=15&ie=UTF8&iwloc=&output=embed",
+          "width": "1270",
+          "height": "450",
+          "style": "border:0;",
+          "allowFullscreen": true,
+          "loading": "lazy"
+        },
+        "form": {
+          "action": "https://formspree.io/f/xyyreeaw",
+          "method": "post",
+          "role": "form",
+          "class": "php-email-form mt-4",
+          "fields": [
+            {
+              "type": "text",
+              "name": "name",
+              "placeholder": "Your Name",
+              "required": true
+            },
+            {
+              "type": "email",
+              "name": "email",
+              "placeholder": "Your Email",
+              "required": true
+            },
+            {
+              "type": "text",
+              "name": "subject",
+              "placeholder": "Subject",
+              "required": true
+            },
+            {
+              "type": "textarea",
+              "name": "message",
+              "rows": "5",
+              "placeholder": "Message",
+              "required": true
+            }
+          ],
+          "messages": {
+            "loading": "Loading",
+            "errorMessage": "",
+            "sentMessage": "Your message has been sent. Thank you!"
+          },
+          "submitButton": {
+            "text": "Send Message",
+            "formtarget": "_blank"
+          }
+        },
+        "moreInfo": "Response to your messages will be made within 6 hrs of submission."
+      },
+      "footer": {
+        "hireAdmireText": "Hire if you admire ❤",
+        "socialLinks": {
+          "twitter": "https://twitter.com/annas_abd",
+          "youtube": "https://youtube.com/@annasabd?si=JJbyhmrdYaPcR2iQ",
+          "github": "https://github.com/Nasuco",
+          "linkedin": "https://www.linkedin.com/in/annasabd/"
+        }
+      }
+  }
+  
